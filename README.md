@@ -122,7 +122,7 @@ Example: [display-posts id="9, 10"]
 **ignore_sticky_posts**  
 Specify whether or not to ignore sticky posts  
 Default: false  
-Example: [displa-posts ignore_sticky_posts="true"]
+Example: [display-posts ignore_sticky_posts="true"]
 
 **image_size**  
 Specify an image size for displaying the featured image, if the post has one. The image_size can be set to thumbnail, medium, large (all controlled from Settings > Reading), or a [custom image size](http://codex.wordpress.org/Function_Reference/add_image_size). See [Image Alignment](https://github.com/billerickson/display-posts-shortcode/wiki#image-alignment)  
